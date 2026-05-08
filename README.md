@@ -1,6 +1,6 @@
 # Racing Team Database
 
-A complete SQL database for managing a ficticious scenario where you have ur own competitive racing team.
+A complete SQL database for managing a ficticious scenario where you have your own competitive racing team.
 
 This project contains a comprehensive SQL script that defines and manages a racing team database. The script includes:
 
