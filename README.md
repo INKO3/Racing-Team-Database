@@ -1,5 +1,9 @@
 # Racing Team Database
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-Yes-blue?style=for-the-badge)
+![Triggers](https://img.shields.io/badge/Triggers-Yes-blue?style=for-the-badge)
+
 A complete SQL database for managing a ficticious scenario where you have your own competitive racing team.
 
 This project contains a comprehensive SQL script that defines and manages a racing team database. The script includes:
