@@ -35,3 +35,6 @@ Includes programmed logic via triggers and stored procedures that automatically 
 3. Initial data will be inserted automatically
 4. Stored procedures and triggers will be compiled and activated
 
+## Diagram
+
+![ERM - Diagram](./ERM.png)
