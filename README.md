@@ -37,4 +37,4 @@ Includes programmed logic via triggers and stored procedures that automatically 
 
 ## Diagram
 
-![ERM - Diagram](./screenshots/dashboard.png)
+![ERM - Diagram](./ERM.png)
